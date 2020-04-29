@@ -1,0 +1,9 @@
+cmd 进入下载位置所在的文件夹
+在 github 所要下载的文件右上角有 clone or download 点击获取网址
+重新返回cmd git clone 网址
+对下载文件内容进行修改然后重新上传时：
+在本机修改完成后
+cmd进入该文件夹
+git add .
+git commit -m "提交信息"
+git push
