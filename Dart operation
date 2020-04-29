@@ -1,0 +1,3 @@
+cmd 进入所在文件夹
+pub global run webdev serve
+在浏览器中输入下面显示的网址
